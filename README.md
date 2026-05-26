@@ -8,3 +8,5 @@
   - **README.md/** - 用户指南
 
 - **xiangshan-code/** - 相关实验代码
+
+- **BOSC-Interview-Questions/** - 开芯院部分面试题
