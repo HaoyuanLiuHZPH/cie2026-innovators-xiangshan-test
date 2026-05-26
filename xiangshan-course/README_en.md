@@ -26,7 +26,7 @@ Ultimate Goal: Pass the **Xiangshan Certification** through systematic learning.
 > **Note**  
 > This course is currently in the **internal testing phase**.  
 > The only content currently available is the basic "hello xiangshan" task.  
-> Beijing Institute of Open Source Chip employees and interviewees are welcome to participate in testing and learning. If you encounter any issues (documentation errors, technical questions, or process suggestions), please provide feedback via [GitHub Issues](https://github.com/XiangShanLab/xiangshan-course/issues).
+> Beijing Institute of Open Source Chip employees and interviewees are welcome to participate in testing and learning. If you encounter any issues (documentation errors, technical questions, or process suggestions), please provide feedback via [GitHub Issues](https://github.com/OpenXiangShan/XiangShanLab/issues).
 
 ### Step 1: Registration and Learning
 
@@ -44,7 +44,7 @@ Ultimate Goal: Pass the **Xiangshan Certification** through systematic learning.
 If you discover any issues during the learning process:
 
 1. **Identify the problem type**: Documentation errors, unclear content, broken links, translation issues, etc.
-2. **Go to GitHub**: Directly visit the [Issues page](https://github.com/XiangShanLab/xiangshan-course/issues)
+2. **Go to GitHub**: Directly visit the [Issues page](https://github.com/OpenXiangShan/XiangShanLab/issues)
 3. **Select a template**: Click "New Issue" and select the "📚 Documentation Issue Report" template
 4. **Fill in the information**:
    - Your identity (helps us optimize content)
@@ -59,7 +59,7 @@ Currently available task: Complete the "hello xiangshan" task.
 
 1. **Read the course materials and practice**: The course page is [docs/en/01-Environment-Setup/01-Overview-of-the-Xiangshan-Development-Environment.md](docs/en/01-Environment-Setup/01-Overview-of-the-Xiangshan-Development-Environment.md)
 2. **Run and take a screenshot**: Ensure the screenshot includes the complete running result
-3. **Go to GitHub**: Visit the [Issues page](https://github.com/XiangShanLab/xiangshan-course/issues)
+3. **Go to GitHub**: Visit the [Issues page](https://github.com/OpenXiangShan/XiangShanLab/issues)
 4. **Select a template**: Click "New Issue" and select the "🎉 Submit hello xiangshan" template
 5. **Fill in the information**:
    - Display name (the name you wish to show in the community)
@@ -94,5 +94,5 @@ This repository contains different types of content under different open-source 
 ## 🤝 Contact Us
 
 - Official website: (Not provided)
-- Problem Feedback: [GitHub Issues](https://github.com/XiangShanLab/XiangShan-course/issues)
+- Problem Feedback: [GitHub Issues](https://github.com/OpenXiangShan/XiangShanLab/issues)
 - Internal Collaboration: (Not provided)

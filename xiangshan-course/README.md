@@ -27,7 +27,7 @@
 > **Note**  
 > 本课程目前处于**内部测试阶段**。  
 > 已开放的课程内容仅包括“hello xiangshan”基础任务。  
-> 欢迎开芯院员工及面试者参与测试学习，如发现任何问题（文档错误、技术疑惑或流程建议），请随时通过 [GitHub Issues](https://github.com/XiangShanLab/xiangshan-course/issues) 反馈。
+> 欢迎开芯院员工及面试者参与测试学习，如发现任何问题（文档错误、技术疑惑或流程建议），请随时通过 [GitHub Issues](https://github.com/OpenXiangShan/XiangShanLab/issues) 反馈。
 
 ### 第一步：注册与学习
 
@@ -45,7 +45,7 @@
 如果在学习过程中发现任何问题：
 
 1. **识别问题类型**：文档错误、内容不清晰、链接失效、翻译问题等
-2. **前往GitHub**：直接访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
+2. **前往GitHub**：直接访问[Issues页面](https://github.com/OpenXiangShan/XiangShanLab/issues)
 3. **选择模板**：点击"New Issue"，选择"📚 文档问题报告"模板
 4. **填写信息**：
    - 您的身份（帮助我们优化内容）
@@ -60,7 +60,7 @@
 
 1. **阅读课程资料并实操**：课程页面为[docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md](docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md)
 2. **运行并截图**：确保截图包含完整的运行结果
-3. **前往GitHub**：访问[Issues页面](https://github.com/XiangShanLab/xiangshan-course/issues)
+3. **前往GitHub**：访问[Issues页面](https://github.com/OpenXiangShan/XiangShanLab/issues)
 4. **选择模板**：点击"New Issue"，选择"🎉 提交 hello xiangshan"模板
 5. **填写信息**：
 
@@ -98,6 +98,6 @@
 ## 🤝 联系我们
 
 - 官网：
-- 问题反馈：[GitHub Issues](https://github.com/XiangShanLab/XiangShan-course/issues)
+- 问题反馈：[GitHub Issues](https://github.com/OpenXiangShan/XiangShanLab/issues)
 - 内部协作：
 
