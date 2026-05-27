@@ -1,0 +1,6 @@
+# 第十二章 Diplomacy 框架与AXI协议扩展
+
+
+
+> 更新: 2026-05-26 17:16:58  
+> 原文: <https://bosc.yuque.com/staff-xmw8rg/fb7qy3/phgoyp575palz1vg>
