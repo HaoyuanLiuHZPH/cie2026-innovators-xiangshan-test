@@ -37,7 +37,7 @@ Ultimate Goal: Pass the **Xiangshan Certification** through systematic learning.
 > **Note**  
 > The complete directory and documentation for this course will ultimately be published on the **official Xiangshan website**.  
 > The website is currently under development. To learn the "hello xiangshan" basic task, please visit:  
-> [docs/en/01-Environment-Setup/01-Overview-of-the-Xiangshan-Development-Environment.md](docs/en/01-Environment-Setup/01-Overview-of-the-Xiangshan-Development-Environment.md)
+> [Chapter1_OverviewoftheXiangshanDevelopmentEnvironment.md](docs/课程体系1：操作篇-香山开发环境操作/2.ENG/Chapter1_OverviewoftheXiangshanDevelopmentEnvironment.md)
 
 ### Step 2: Problem Feedback (Optional but Important)
 
@@ -57,7 +57,7 @@ If you discover any issues during the learning process:
 
 Currently available task: Complete the "hello xiangshan" task.
 
-1. **Read the course materials and practice**: The course page is [docs/en/01-Environment-Setup/01-Overview-of-the-Xiangshan-Development-Environment.md](docs/en/01-Environment-Setup/01-Overview-of-the-Xiangshan-Development-Environment.md)
+1. **Read the course materials and practice**: The course page is [Chapter1_OverviewoftheXiangshanDevelopmentEnvironment.md](docs/课程体系1：操作篇-香山开发环境操作/2.ENG/Chapter1_OverviewoftheXiangshanDevelopmentEnvironment.md)
 2. **Run and take a screenshot**: Ensure the screenshot includes the complete running result
 3. **Go to GitHub**: Visit the [Issues page](https://github.com/OpenXiangShan/XiangShanLab/issues)
 4. **Select a template**: Click "New Issue" and select the "🎉 Submit hello xiangshan" template
@@ -73,7 +73,7 @@ Currently available task: Complete the "hello xiangshan" task.
 | Node | Description | Related Links |
 |------|-------------|---------------|
 | Official Website Registration | Register a learning account on the Xiangshan official website | [Official website address (Not available yet)](https://.com) |
-| Start Learning | Access course content and study chapter by chapter | [Course Documentation](docs/zh-CN/) |
+| Start Learning | Access course content and study chapter by chapter | [Course Documentation](docs/) |
 | Submit Documentation Issues | Report documentation problems using GitHub Issues | [Documentation Issue Template](.github/ISSUE_TEMPLATE/documentation-issue.yml) |
 | Submit Assignments | Share completion screenshots of hello xiangshan | [Assignment Submission Template](.github/ISSUE_TEMPLATE/hello-xiangshan-submission.yml) |
 

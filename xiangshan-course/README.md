@@ -38,7 +38,7 @@
 > **Note**  
 > 本课程的完整目录与文档将最终发布在**香山官方网站**。  
 > 当前网站处于开发阶段，如需学习"hello xiangshan"基础任务，请先访问：  
-> [docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md](docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md)
+> [香山开发环境总述.md](docs/课程体系1：操作篇-香山开发环境操作/1.CHN/第一章香山开发环境总述.md)
 
 ### 第二步：问题反馈（可选但重要）
 
@@ -58,7 +58,7 @@
 
 目前任务开通的任务：完成"hello xiangshan"任务；
 
-1. **阅读课程资料并实操**：课程页面为[docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md](docs/zh-CN/01-香山开发环境操作/01-香山开发环境总述.md)
+1. **阅读课程资料并实操**：课程页面为[香山开发环境总述.md](docs/课程体系1：操作篇-香山开发环境操作/1.CHN/第一章香山开发环境总述.md)
 2. **运行并截图**：确保截图包含完整的运行结果
 3. **前往GitHub**：访问[Issues页面](https://github.com/OpenXiangShan/XiangShanLab/issues)
 4. **选择模板**：点击"New Issue"，选择"🎉 提交 hello xiangshan"模板
@@ -77,7 +77,7 @@
 | 节点 | 说明 | 相关链接 |
 |------|------|----------|
 | 官网注册 | 在香山官网注册学习账号 | [官网地址暂无](https://.com) |
-| 开始学习 | 访问课程内容，按章节学习 | [课程文档](docs/zh-CN/) |
+| 开始学习 | 访问课程内容，按章节学习 | [课程文档](docs/) |
 | 提交文档问题 | 使用GitHub Issue报告文档问题 | [文档问题模板](.github/ISSUE_TEMPLATE/documentation-issue.yml) |
 | 提交作业 | 分享hello xiangshan完成截图 | [作业提交模板](.github/ISSUE_TEMPLATE/hello-xiangshan-submission.yml)
 

@@ -7,7 +7,7 @@
 - **xiangshan-course/** - 香山处理器学习课程
 [点击开始阅读学习说明](./xiangshan-course/README.md)
 - **xiangshan-course/** - Learning courses for the XiangShan processor
-[Click here to read the learning guide].(./xiangshan-course/README.md)
+[Click here to read the learning guide](./xiangshan-course/README_en.md)
   - **docs/** - 课程文档（中英文双语）
   - **docs/** - Course documentation (Bilingual: Chinese/English)
   - **README.md/** - 用户指南
